@@ -14,4 +14,10 @@
    #### • Weight Monitor - Track your weight each day and monitor your progress toward established goals.
    #### • Home Inventory Manager - Helps you keep track of all your belongings - even includes photographs.
    #### • Snowball Toss Game - Lets you throw snowballs at another player or against the computer - has varying difficulties.
+   
+   
+## System Requirements
+  You will need the following software to complete the exercises in this book:
+  #### • Oracle Java Standard Edition JDK8
+  #### • NetBeans 8.0
 
