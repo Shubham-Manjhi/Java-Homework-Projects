@@ -1,11 +1,13 @@
+
 # Java-Homework-Projects
-  Course Description JAVA HOMEWORK PROJECTS teaches Java
-  programming concepts while providing detailed step-by-step instructions in
-  building many fun and useful projects. JAVA HOMEWORK PROJECTS
-  explains (in simple, easy-to-follow terms) how to build a Java GUI project.
-  Students learn about project design, the Java Swing controls, many elements of
-  the Java, and how to debug and distribute finished projects. The projects built
-  include:
+
+
+## Course Description
+  #### JAVA HOMEWORK PROJECTS teaches Javaprogramming concepts while providing detailed step-by-step instructions inbuilding many fun and 
+  #### useful projects. JAVA HOMEWORK PROJECTS explains (in simple, easy-to-follow terms) how to build a Java GUI project. Students learn
+  #### about project design, the Java Swing controls, many elements of the Java, and how to debug and distribute finished projects. The 
+  #### projects built include:
+  
    #### • Dual-Mode Stopwatch - Allows you to time tasks you may be doing.
    #### • Consumer Loan Assistant - Helps you see just how much those credit cards are costing you.
    #### • Flash Card Math Quiz - Lets you practice basic addition, subtraction, multiplication and division skills.
@@ -16,8 +18,17 @@
    #### • Snowball Toss Game - Lets you throw snowballs at another player or against the computer - has varying difficulties.
    
    
+   
+   
 ## System Requirements
   You will need the following software to complete the exercises in this book:
   #### • Oracle Java Standard Edition JDK8
   #### • NetBeans 8.0
+  
+  
+## Course Prerequisites
+  #### You should have experience with Java programming. 
+  #### You should also be familiar with using the Java Swing library.
+  #### You will also need the ability to view and print documents saved in Acrobat PDF format.
+
 
